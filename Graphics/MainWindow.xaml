@@ -1,0 +1,14 @@
+﻿<Window x:Class="Graphics.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Graphics"
+        mc:Ignorable="d"
+        WindowState="Maximized"
+        Title="MainWindow" Height="500" Width="500">
+    <Grid>
+        <Image Name="Main" MouseMove="Main_MouseMove" PreviewKeyDown="Main_KeyDown" Focusable="True"></Image>
+        <TextBlock Name="Fps" Foreground="Green" Margin="10" HorizontalAlignment="Left" VerticalAlignment="Bottom"/>
+    </Grid>
+</Window>

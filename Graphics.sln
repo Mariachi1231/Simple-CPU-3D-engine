@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphics", "Graphics\Graphics.csproj", "{9A624E4B-6087-41E1-949C-569C4C95274C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphics.Math", "Graphics.Math\Graphics.Math.csproj", "{056AFB33-4EAA-4CE1-B2DC-B20CFFB3847D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphics.Core", "Graphics.Core\Graphics.Core.csproj", "{E599A907-B594-43FE-A48C-A4535BA3E0E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A624E4B-6087-41E1-949C-569C4C95274C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A624E4B-6087-41E1-949C-569C4C95274C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A624E4B-6087-41E1-949C-569C4C95274C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A624E4B-6087-41E1-949C-569C4C95274C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{056AFB33-4EAA-4CE1-B2DC-B20CFFB3847D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056AFB33-4EAA-4CE1-B2DC-B20CFFB3847D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056AFB33-4EAA-4CE1-B2DC-B20CFFB3847D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056AFB33-4EAA-4CE1-B2DC-B20CFFB3847D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E599A907-B594-43FE-A48C-A4535BA3E0E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E599A907-B594-43FE-A48C-A4535BA3E0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E599A907-B594-43FE-A48C-A4535BA3E0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E599A907-B594-43FE-A48C-A4535BA3E0E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

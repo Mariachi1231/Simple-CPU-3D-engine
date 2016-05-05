@@ -1,0 +1,5 @@
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Graphics\Graphics.Math\bin\Release\Graphics.Math.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Graphics\Graphics.Math\bin\Release\Graphics.Math.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Graphics\Graphics.Math\obj\Release\Graphics.Math.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Graphics\Graphics.Math\obj\Release\Graphics.Math.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Graphics\Graphics.Math\obj\Release\Graphics.Math.csprojResolveAssemblyReference.cache

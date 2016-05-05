@@ -1,0 +1,4 @@
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Graphics\Graphics.Math\bin\Debug\Graphics.Math.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Graphics\Graphics.Math\bin\Debug\Graphics.Math.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Graphics\Graphics.Math\obj\Debug\Graphics.Math.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Graphics\Graphics.Math\obj\Debug\Graphics.Math.pdb

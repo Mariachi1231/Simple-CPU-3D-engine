@@ -1,0 +1,9 @@
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Graphics\Graphics.Core\obj\Debug\Graphics.Core.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Graphics\Graphics.Core\bin\Debug\Graphics.Core.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Graphics\Graphics.Core\bin\Debug\Graphics.Core.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Graphics\Graphics.Core\bin\Debug\Graphics.Math.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Graphics\Graphics.Core\bin\Debug\Graphics.Math.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Graphics\Graphics.Core\obj\Debug\Graphics.Core.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Graphics\Graphics.Core\obj\Debug\Graphics.Core.pdb
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Graphics\Graphics.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Александр\Documents\Visual Studio 2015\Projects\Graphics\Graphics.Core\bin\Debug\Newtonsoft.Json.xml
